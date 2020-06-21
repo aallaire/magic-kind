@@ -24,7 +24,7 @@ assert http_code in HttpCode
 ...
 
 for http_code in HttpCode:
-    http_code 
+    print(http_code)
 ````
 
 ### Motivation

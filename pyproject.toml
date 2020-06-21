@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "magic-kind"
-version = "0.2.1"
+version = "0.2.2"
 description = "The MagicKind type is a simpler alternative to Enum types for groups of related magic values when order is not important."
 authors = ["andr3738 <andr3738@rackspace.com>"]
 license = "Apache-2.0"
@@ -9,7 +9,7 @@ homepage = "https://github.com/aallaire/magic-kind"
 repository = "https://github.com/aallaire/magic-kind"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
